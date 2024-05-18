@@ -5,6 +5,11 @@
 https://whimsical.com/100-days-of-dsa-JjsnhMcKViecPVFfFAZx3g
 
 # Days :
-### Day 1 : Time and Space Complexity
+### Day 1 : Time and Space Complexity 😄
 
-### Day 2 : Recursion
+### Day 2 : Recursion 🙄
+  ##### Recursion is when a function calls itself to solve a smaller part of the same problem. It's like solving a big puzzle by breaking it into smaller, similar pieces and solving each one step-by-step.
+
+#### **Key Parts of Recursion:** 
+- Base Case: The simple case that stops the function from calling itself more. It prevents an endless loop.
+- Recursive Case: The part where the function calls itself with a smaller or simpler input
