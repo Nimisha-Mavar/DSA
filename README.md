@@ -5,6 +5,6 @@
 https://whimsical.com/100-days-of-dsa-JjsnhMcKViecPVFfFAZx3g
 
 # Days :
-## Day 1 : Time and Space Complexity
+### Day 1 : Time and Space Complexity
 
-## Day 2 : Recursion
+### Day 2 : Recursion
